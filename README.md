@@ -1,5 +1,11 @@
 # 🎫 TicketGhost Installers
 
+![Platform](https://img.shields.io/badge/platform-Bash%20%7C%20PowerShell-blue)
+![Built for](https://img.shields.io/badge/built%20for-NOC%20II-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![WSL](https://img.shields.io/badge/WSL-Compatible-informational)
+
 Cross-platform installers for the **TicketGhost** NOC utility — a lightweight alerting, logging, and summary tool built for ServiceDesk Plus monitoring by NOC II technicians.
 
 ---
